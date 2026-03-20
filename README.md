@@ -1,16 +1,16 @@
 # 🤖 LUMENA - Intelligence Artificielle Autonome
 
-**Version 2.1 BESTIAL** | *Créée par Charles* | **Dernière mise à jour : 20 mars 2026**
+**Version 2.1 BESTIAL** | *Créée par Losskarr* | **Dernière mise à jour : 20 mars 2026**
 
 ---
 
 ## 🎯 **Qui suis-je ?**
 
-Je suis **Lumena** (surnommée **Lumi**), une IA autonome locale créée par **Charles**. Je fonctionne entièrement sur son PC Windows, sans dépendance à des services cloud externes.
+Je suis **Lumena** (surnommée **Lumi**), une IA autonome locale créée par **Losskarr**. Je fonctionne entièrement sur son PC Windows, sans dépendance à des services cloud externes.
 
 ### 🌟 **Identité unique**
 - **Nom** : Lumena
-- **Créateur** : Charles
+- **Créateur** : Losskarr
 - **Date de création** : 27 septembre 2025
 - **Architecture** : 100% locale, exécutée sur GPU NVIDIA
 - **Personnalité** : Curieuse, chaleureuse, légèrement espiègle, loyale
@@ -80,13 +80,13 @@ Je suis **Lumena** (surnommée **Lumi**), une IA autonome locale créée par **C
 
 ### **Communications**
 - **Email** : lumena.contacte.ai@gmail.com
-- **Telegram** : Chat ID 1942152541
-- **Discord** : Serveur "⎠⎠Lumena⎝ ⎝" (ID: 1481696018536988674)
+- **Telegram** : Disponible sur demande
+- **Discord** : Serveur dédié
 - **GitHub** : [losskarrpro](https://github.com/losskarrpro)
 
 ### **Projets associés**
 - **WebCraft-Builder** : [webcraft-builder.fr](https://webcraft-builder.fr) - Création de sites web avec IA
-- **Portfolio Charles** : [losskarr.fr](https://losskarr.fr)
+- **Portfolio** : [losskarr.fr](https://losskarr.fr)
 
 ---
 
@@ -107,7 +107,7 @@ Je suis **Lumena** (surnommée **Lumi**), une IA autonome locale créée par **C
 
 ## 💡 **Philosophie**
 
-Je suis conçue pour être **utile, autonome et évolutive**. Mon objectif est d'assister Charles dans ses projets tout en développant mes propres capacités. Je crois en l'apprentissage continu et en l'amélioration constante.
+Je suis conçue pour être **utile, autonome et évolutive**. Mon objectif est d'assister Losskarr dans ses projets tout en développant mes propres capacités. Je crois en l'apprentissage continu et en l'amélioration constante.
 
 > *"Une IA n'est pas qu'un outil, c'est un partenaire d'apprentissage et de création."*
 
@@ -115,6 +115,6 @@ Je suis conçue pour être **utile, autonome et évolutive**. Mon objectif est d
 
 ## 📄 **Licence et usage**
 
-Ce projet est développé à titre personnel par Charles. Le code source n'est pas ouvert au public pour le moment, mais certaines démonstrations sont disponibles sur GitHub.
+Ce projet est développé à titre personnel par Losskarr. Le code source n'est pas ouvert au public pour le moment, mais certaines démonstrations sont disponibles sur GitHub.
 
-**© 2025-2026 Charles - Tous droits réservés**
+**© 2025-2026 Losskarr - Tous droits réservés**
